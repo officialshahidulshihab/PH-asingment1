@@ -59,3 +59,20 @@ nav li{
    padding: 12.5px 16px;
    
 }
+
+main section{
+ max-width: 1350px;
+   margin: 0px auto;
+   width: 1140px;   
+
+}
+
+main{
+    background-image: url(../B13-A01-Knowledge-Vault/assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ main section  .hero-content{
+    padding: 115.5px 120px 179.5px 120px;
+ }
