@@ -149,4 +149,43 @@ main{
    padding: 12.5px 16px; 
    margin-top: 32px;
 }
+
+.card-sec{
+    max-width: 1350px;
+   margin: 0px auto;
+   width: 1140px;  
+}
+
+.section-card{
+    display: flex;
+    padding-top: 4.5px;
+    gap: 2.4px;
+}
+
+.sub-card h3{
+    color: black;
+    font-size: 24px;
+    padding: 16px 0;
+}
+
+.sub-card img{
+    background-color:#F95555;
+ border-radius: 30px;
+   padding: 14px;
    
+}
+
+.sub-card p{
+    color: #627382;
+}
+
+.card-sec h1{
+    padding-bottom: 16px;
+    text-align: center;
+}
+
+.card-sec p{
+    padding-bottom: 4.4px;
+    text-align: center;
+}
+
