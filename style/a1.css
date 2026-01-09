@@ -70,9 +70,83 @@ main section{
 main{
     background-image: url(../B13-A01-Knowledge-Vault/assets/hero-bg.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-size: cover;
+    vertical-align: middle;
+    
 }
 
  main section  .hero-content{
     padding: 115.5px 120px 179.5px 120px;
  }
+
+ .hero-sec{
+   text-align: center;
+ }
+
+ .early-div{
+    text-align: center;
+ }
+
+ .early-div{
+    color: #30B868;
+    background-color: white;
+    width: 229px;
+    border: none;
+    border-radius: 50px;
+    padding: 8px 12px 8px 34px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    
+
+ }
+
+ .hero-content .hero-content-1{
+    color: white;
+    font-weight:700;
+     font-size: 72px;
+ }
+
+ .hero-content .hero-content-2{
+    color: #30B868;
+   font-weight:700;
+     font-size: 72px;
+ }
+
+ .hero-content p{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    padding-top: 16px;
+
+ }
+
+ .mybtn2{
+    color: white;
+    background-color:transparent;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding: 16.5px 16px 16.5px 46px;
+
+ }
+
+ /*  background-color: #30B868;
+   color: white;
+   border: none;
+   border-radius: 8px;
+   font-size: 16px;
+   font-weight: 600;
+   padding: 12.5px 16px; */
+
+.my-btn1{
+   background-color: #30B868;
+   color: white;
+   border: none;
+   border-radius: 8px;
+   font-size: 16px;
+   font-weight: 600;
+   padding: 12.5px 16px; 
+   margin-top: 32px;
+}
+   
