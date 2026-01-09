@@ -287,15 +287,28 @@ footer{
     max-width: 1350px;
    margin: 0px auto;
    width: 1140px;  
+   background-color: #001931;
 }
 
 .design{
     display: flex;
-    background-color: #001931;
+    
     padding: 120px 120px 30px 120px;
-    gap: 750px;
+    gap: 500px;
+  
 }
 
 .last{
     color: white;
+    text-align: center;
+}
+
+.bottom-1{
+    color: white;
+    text-align: center;
+}
+
+hr{
+    color: #E5E7EB;
+    
 }
