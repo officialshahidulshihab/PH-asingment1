@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Sheared styles */
+
+/*  max-width: 1350px;
+   margin: 0px auto;
+   width: 1140px; */
+
+
+/* main styles */
+
+header{
+    max-width: 1350px;
+   margin: 0px auto;
+   width: 1140px;
+}
+nav{
+
+    background-color: white;
+ 
+}
+.nav-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 0px;
+   
+    
+}
+
+
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+   
+}
+nav li{
+    list-style-type:none;
+    
+}
+
+.nav-content ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}
+.my-btn{
+   background-color: #30B868;
+   color: white;
+   border: none;
+   border-radius: 8px;
+   font-size: 16px;
+   font-weight: 600;
+   padding: 12.5px 16px;
+   
+}
